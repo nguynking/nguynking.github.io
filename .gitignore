@@ -1,4 +1,5 @@
-*~
-.dropbox
-.DS_Store
-Icon*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
