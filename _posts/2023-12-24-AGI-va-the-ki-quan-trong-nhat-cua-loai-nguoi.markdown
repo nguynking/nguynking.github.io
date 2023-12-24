@@ -55,7 +55,7 @@ Nói kỹ hơn về phần cứng, phần này có 6 bộ phận:
 
 <!-- <center><img src="{{ site.url }}/assets/post2/phan-cung-may-tinh.jpeg"></center> -->
 
-- **The Central Processing Unit**, viết tắt **CPU (bộ xử lý trung tâm)** là bộ não của máy tính, cân hết các công việc chạy code, tính toán cho máy tính. Vì làm việc lớn nên thông thường **CPU** cũng có một số nô tì riêng là mấy chiếc quạt làm mát được lắp xung quanh nè. 
+<!-- - **The Central Processing Unit**, viết tắt **CPU (bộ xử lý trung tâm)** là bộ não của máy tính, cân hết các công việc chạy code, tính toán cho máy tính. Vì làm việc lớn nên thông thường **CPU** cũng có một số nô tì riêng là mấy chiếc quạt làm mát được lắp xung quanh nè. 
 
 - **Main memory (bộ nhớ chính)**, hay là **RAM (Random Accessed Memories)** là kho chứa: 1) code của các chương trình và 2) dữ liệu được tạo ra khi chạy các chương trình đó. Ví dụ, khi bạn mở 1 chương trình - trình duyệt chrome lên chẳng hạn - thì RAM sẽ bị chiếm đóng cho đến khi bạn tắt trình duyệt đi. Những chương trình, dữ liệu không đang hoạt động thì nằm trong **secondary storage (bộ nhớ phụ)**. 
 
@@ -69,11 +69,11 @@ Nói kỹ hơn về phần cứng, phần này có 6 bộ phận:
 
 Một chiếc máy tính luôn lưu loát 2 loại ngôn ngữ, là **machine language (ngôn ngữ máy)** và **programming language (ngôn ngữ lập trình)**.
 
-**Ngôn ngữ máy**, hoặc **mã máy**, như là tiếng mẹ đẻ của máy tính, các bộ phận máy tính giao tiếp với nhau và thực hiện các hướng dẫn bằng ngôn ngữ này. Bạn còn nhớ cái trình duyệt chrome lúc nãy bạn mở không? Nếu nó còn đang chạy, thì dữ liệu của trình duyệt được lưu trong RAM dưới dạng ngôn ngữ máy này nè. **Mã máy** được viết dưới dạng các **dãy số nhị phân (Binary)**.
+**Ngôn ngữ máy**, hoặc **mã máy**, như là tiếng mẹ đẻ của máy tính, các bộ phận máy tính giao tiếp với nhau và thực hiện các hướng dẫn bằng ngôn ngữ này. Bạn còn nhớ cái trình duyệt chrome lúc nãy bạn mở không? Nếu nó còn đang chạy, thì dữ liệu của trình duyệt được lưu trong RAM dưới dạng ngôn ngữ máy này nè. **Mã máy** được viết dưới dạng các **dãy số nhị phân (Binary)**. -->
 
 <!-- <center><img src="{{ site.url }}/assets/post2/computer-languages.png"></center> -->
 
-Nhị là 2, phân là phần. **Binary (hệ nhị phân)** là ngôn ngữ chỉ dùng hai ký tự 0 và 1; khác với **Decimal (hệ thập phân)** mà con người thường sử dụng để đếm từ 1 đến 10.
+<!-- Nhị là 2, phân là phần. **Binary (hệ nhị phân)** là ngôn ngữ chỉ dùng hai ký tự 0 và 1; khác với **Decimal (hệ thập phân)** mà con người thường sử dụng để đếm từ 1 đến 10.
 
 Tất cả các ký tự trên bàn phím đều có thể được dịch ra Binary hết. Quy trình dịch ngắn gọn là:
 
@@ -95,4 +95,4 @@ Như trên là sơ bộ những kiến thức tất yếu về máy tính nói c
 Đang có đà nói về **ngôn ngữ lập trình**, nên tập sau tui sẽ viết về chủ đề này nhé. Mời các bạn đón xem.
 
 [link-to-post-1]: https://tuihoccode.com/thoughts/2020/01/16/chia-se-kinh-nghiem-tu-hoc-lap-trinh-python-cho-nguoi-moi-bat-dau.html
-[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html -->
+[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html --> -->
