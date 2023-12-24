@@ -12,4 +12,4 @@ Tui là một Mediator (INFP-T), và nó mô tả khá chính xác bản thân t
 
 Đây sẽ là một chiếc blog nho nhỏ nơi tui ghi lại hành trình tuổi 20s (và cũng có thể là 30s, 40s…) của mình, cũng như là nơi tui viết lại những kiến thức mình đã và đang mày mò học hỏi. Nội dung của blog sẽ chủ yếu xoay quanh những điều tui cảm thấy vô cùng hứng thú: âm nhạc, vật lý, bóng rổ, AI… Nếu bạn có gợi ý bài viết, hoặc mong muốn góp ý, chia sẻ, xin gửi về email [kingnguyen0123@gmail.com](kingnguyen0123@gmail.com), tui sẽ trả lời trong thời gian sớm nhất.
 
-Khi không làm việc, tui thường ngồi đọc sách, hay đơn giản chỉ là ngồi thở dài nhìn thế giới chuyển động :3 Tui cũng hay thường thức và đốt ít calories với bộ môn thể thao cờ vua, vậy nên ai có cùng đam mê có thể challenge tui vài ván tại [đây](https://www.chess.com/member/goggiz) nhé!
+Khi không làm việc, tui thường ngồi đọc sách, hay đơn giản chỉ là ngồi thở dài nhìn thế giới chuyển động :3 Tui cũng hay thường thức và đốt ít calories với bộ môn thể thao cờ vua, vậy nên ai có cùng đam mê có thể challenge tui vài ván [tại đây](https://www.chess.com/member/goggiz) nhé!
