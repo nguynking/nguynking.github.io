@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Giải thích khái niệm lập trình cơ bản 1 - COMPUTER BASICS"
+title:  "AGI và thế kỉ quan trọng nhất của loài người"
 date:   2020-01-17 09:14:00 -0700
 categories: cs-foundation
 ---
