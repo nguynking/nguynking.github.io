@@ -4,22 +4,12 @@ title: về-tui
 permalink: /about/
 ---
 <!-- <center><img src="{{ site.url }}/assets/about/tuihoccode.jpg"></center> -->
-<p><img src="{{ site.url }}/assets/about/tuihoccode.jpg" style="float: left; max-width: 50%;margin: 1em 2em 0 0"></p>
+<!-- <p><img src="{{ site.url }}/assets/about/tuihoccode.jpg" style="float: left; max-width: 50%;margin: 1em 2em 0 0"></p> -->
 
-<b>Chào mọi người, tui là Minh Phượng (MP). Tui làm marketing được 5 năm thì chuyển qua học code. Hiện tui đang làm Software Engineer tại Google, sống tại Seattle (bang Washington, Mỹ).
-</b>
+Chào mọi người, tui là Nguyễn King (là người Việt 100% nhưng tên lại hông gốc Việt lắm hehe). Tui hiện đang là sinh viên năm 3 tại Trường Đại học Kinh tế TP.HCM, chuyên ngành Khoa học dữ liệu.
 
-Ngày trước tui làm marketing tại các tech startups ở Taiwan và TP.HCM. 
-Làm việc trong các tech team nhỏ cho phép tui mày mò một số công việc liên quan đến database, analytics và tui bén duyên với lập trình từ đó. 
-Sau 1 năm nghỉ việc để tìm hiểu đam muê, tự học căn bản, tui quyết định cắp sách đến trường. 
+Tui là một Mediator (INFP-T), và nó mô tả khá chính xác bản thân tui - trầm tính và luôn sẵn sàng lắng nghe câu chuyện từ người khác. Âm nhạc đối với tui là đam mê từ thuở nhỏ, và đây cũng là sợi dây kết nối tui với rất nhiều người bạn thú vị. Tui cũng có một ước mơ là được đi khắp mọi ngõ ngách trên thế giới, gặp những con người từ các nền văn hóa khác nhau, để hiểu và nhận ra rằng bản thân mình cũng chỉ là hạt cát giữa đại dương rộng lớn tràn ngập sắc màu.
 
-Tui theo học tại trường Northeastern, chương trình thạc sỹ Computer Science dành cho những người đến từ background khác. Quá trình xin apply vào trường học tui có chia sẻ ở [đây][xin-hoc-thac-sy-Computer-Science]. Khi đi học, tui có tham gia thực tập Software Engineer tại Confluent và Google, quá trình xin internship được chia sẻ ở [đây][xin-thuc-tap-software-engineer-dau-tien-tai-my]. Sau khi tốt nghiệp, tui nhận lời mời vào làm chính thức tại Google.
+Đây sẽ là một chiếc blog nho nhỏ nơi tui ghi lại hành trình tuổi 20s (và cũng có thể là 30s, 40s…) của mình, cũng như là nơi tui viết lại những kiến thức mình đã và đang mày mò học hỏi. Nội dung của blog sẽ chủ yếu xoay quanh những điều tui cảm thấy vô cùng hứng thú: âm nhạc, vật lý, bóng rổ, AI… Nếu bạn có gợi ý bài viết, hoặc mong muốn góp ý, chia sẻ, xin gửi về email [kingnguyen0123@gmail.com](kingnguyen0123@gmail.com), tui sẽ trả lời trong thời gian sớm nhất.
 
-Blog này tui tạo ra từ lúc mới bắt đầu học, là nơi tui ghi chú và chia sẻ lại những kiến thức tui đã và đang mày mò. Giờ đã đi làm, tui muốn chia sẻ nhiều hơn về quá trình chuyển ngành học code và những kiến thức căn bản dành cho các bạn mới bắt đầu tìm hiểu học code. Nếu bạn có gợi ý bài viết, hoặc mong muốn góp ý, chia sẻ, xin gửi về email [ptmphuong9@gmail.com](ptmphuong9@gmail.com), tui sẽ trả lời trong thời gian sớm nhất.
-
-Khi không làm việc, tui chơi với mèo, làm gốm, hoặc đốt một ít calories với bộ môn thể thao cờ vua :3 (anh chị em đồng môn có thể challenge tui một ván tại [lichess: justhorsingaroun][my-lichess].
-
-
-[xin-hoc-thac-sy-Computer-Science]: https://tuihoccode.com/career-stories/2020/08/29/xin-hoc-thac-sy-Computer-Science.html
-[xin-thuc-tap-software-engineer-dau-tien-tai-my]: https://tuihoccode.com/career-stories/2022/04/09/xin-thuc-tap-software-engineer-dau-tien-tai-my.html
-[my-lichess]: https://lichess.org/@/justhorsingaroun
+Khi không làm việc, tui thường ngồi đọc sách, hay đơn giản chỉ là ngồi thở dài nhìn thế giới chuyển động :3 Tui cũng hay thường thức và đốt ít calories với bộ môn thể thao cờ vua, vậy nên ai có cùng đam mê có thể challenge tui vài ván tại [đây](https://www.chess.com/member/goggiz) nhé!
