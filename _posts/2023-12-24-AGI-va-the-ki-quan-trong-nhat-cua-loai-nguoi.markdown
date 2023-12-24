@@ -5,7 +5,9 @@ date:   2020-01-17 09:14:00 -0700
 categories: cs-foundation
 ---
 
-**Nếu bạn vừa đến với lập trình như tui, thì chắc hẳn bạn cũng đang bị chôn vùi trong đống thuật ngữ, khái niệm, quy tắc về lập trình ngoài kia.**
+continue...
+
+<!-- **Nếu bạn vừa đến với lập trình như tui, thì chắc hẳn bạn cũng đang bị chôn vùi trong đống thuật ngữ, khái niệm, quy tắc về lập trình ngoài kia.**
 
 [Lộ trình tự học của tui][link-to-post-1] là lao thẳng vào những chủ đề/ứng dụng tui quan tâm (Python, Data Analysis), thay vì học đầy đủ nền tảng lý thuyết trước. Có 1 điểm trừ của cách học này là hay bị khớp ở những khái niệm lập trình cơ bản, đặc biệt lặp đi lặp lại trong các tài liệu tiếng anh. Thậm chí các tài liệu, blog lập trình tiếng việt cũng vẫn giữ nguyên từ gốc ... để giữ gìn sự trong sáng của tiếng lập trình.
 
@@ -93,4 +95,4 @@ Như trên là sơ bộ những kiến thức tất yếu về máy tính nói c
 Đang có đà nói về **ngôn ngữ lập trình**, nên tập sau tui sẽ viết về chủ đề này nhé. Mời các bạn đón xem.
 
 [link-to-post-1]: https://tuihoccode.com/thoughts/2020/01/16/chia-se-kinh-nghiem-tu-hoc-lap-trinh-python-cho-nguoi-moi-bat-dau.html
-[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
+[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html -->
