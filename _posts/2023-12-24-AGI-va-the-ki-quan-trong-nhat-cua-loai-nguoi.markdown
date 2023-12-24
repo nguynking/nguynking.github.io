@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "AGI và thế kỉ quan trọng nhất của loài người"
-date:   2020-01-17 09:14:00 -0700
-categories: cs-foundation
+date:   2023-12-24 12:00:00 -0700
+categories: AI
 ---
 
 continue...
