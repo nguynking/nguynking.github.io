@@ -95,4 +95,4 @@ Như trên là sơ bộ những kiến thức tất yếu về máy tính nói c
 Đang có đà nói về **ngôn ngữ lập trình**, nên tập sau tui sẽ viết về chủ đề này nhé. Mời các bạn đón xem.
 
 [link-to-post-1]: https://tuihoccode.com/thoughts/2020/01/16/chia-se-kinh-nghiem-tu-hoc-lap-trinh-python-cho-nguoi-moi-bat-dau.html
-[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html --> -->
+[ascii-table-link]: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html -->
