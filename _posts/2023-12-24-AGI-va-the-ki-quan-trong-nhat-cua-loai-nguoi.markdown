@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AGI và thế kỉ quan trọng nhất của loài người"
-date:   2023-12-24 12:00:00 -0700
+date:   2023-12-24 11:00:00 -0700
 categories: AI
 ---
 
