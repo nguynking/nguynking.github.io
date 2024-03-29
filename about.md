@@ -2,7 +2,9 @@
 layout: page
 title: về-tui
 permalink: /about/
+includelink: true
 ---
+
 <!-- <center><img src="{{ site.url }}/assets/about/tuihoccode.jpg"></center> -->
 <!-- <p><img src="{{ site.url }}/assets/about/tuihoccode.jpg" style="float: left; max-width: 50%;margin: 1em 2em 0 0"></p> -->
 
