@@ -1,2 +1,5 @@
-_drafts/
-_site/
+_site
+.sass-cache
+.jekyll-cache
+.DS\_Store
+config.codekit
