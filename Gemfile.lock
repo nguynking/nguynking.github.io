@@ -67,6 +67,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  liquid
   rouge
 
 BUNDLED WITH
