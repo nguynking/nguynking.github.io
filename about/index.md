@@ -3,12 +3,10 @@ layout: full-width
 title: About
 ---
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+Chào mọi người, tui là Nguyễn King (là người Việt 100% nhưng tên lại hông gốc Việt lắm hehe). Tui hiện đang là sinh viên năm 3 tại Trường Đại học Kinh tế TP.HCM, chuyên ngành Khoa học dữ liệu.
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+Tui là một Mediator (INFP-T), và nó mô tả khá chính xác bản thân tui - trầm tính và luôn sẵn sàng lắng nghe câu chuyện từ người khác. Âm nhạc đối với tui là đam mê từ thuở nhỏ, và đây cũng là sợi dây kết nối tui với rất nhiều người bạn thú vị. Tui cũng có một ước mơ là được đi khắp mọi ngõ ngách trên thế giới, gặp những con người từ các nền văn hóa khác nhau, để hiểu và nhận ra rằng bản thân mình cũng chỉ là hạt cát giữa đại dương rộng lớn.
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts! 
+Đây sẽ là một chiếc blog nho nhỏ nơi tui ghi lại hành trình tuổi 20s (và cũng có thể là 30s, 40s…) của mình, cũng như là nơi tui viết lại những kiến thức mình đã và đang mày mò học hỏi. Nội dung của blog sẽ chủ yếu xoay quanh những điều tui cảm thấy vô cùng hứng thú: âm nhạc, vật lý, bóng rổ, AI… Nếu bạn có gợi ý bài viết, hoặc mong muốn góp ý, chia sẻ, xin gửi về email [kingnguyen0123@gmail.com](https://nguynking.github.io/about/kingnguyen0123@gmail.com), tui sẽ trả lời trong thời gian sớm nhất.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
-
-
+Khi không làm việc, tui thường ngồi đọc sách, hay đơn giản chỉ là ngồi thở dài nhìn thế giới chuyển động :3 Tui cũng hay thường thức và đốt ít calories với bộ môn thể thao cờ vua, vậy nên ai có cùng đam mê có thể challenge tui vài ván [tại đây](https://www.chess.com/member/goggiz) nhé!
