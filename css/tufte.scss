@@ -193,9 +193,9 @@ pre, code {
   line-height: 1.71428571;
   margin-top: 1.71428571rem;
   background-color: $background-color;
-  padding: 1rem;
-  border: 1px solid $border-color;
-  border-radius: 3px;
+  // padding: 1rem;
+  border: medium solid $border-color;
+  border-radius: 5px;
   overflow-x: auto;
 }
 
@@ -209,57 +209,57 @@ pre code {
   color: $text-color;
 }
 
-.comment {
-  color: $comment-color;
-}
+// .comment {
+//   color: $comment-color;
+// }
 
-.keyword {
-  color: $keyword-color;
-}
+// .keyword {
+//   color: $keyword-color;
+// }
 
-.data-type {
-  color: $data-type-color;
-}
+// .data-type {
+//   color: $data-type-color;
+// }
 
-.function {
-  color: $function-color;
-}
+// .function {
+//   color: $function-color;
+// }
 
-.number {
-  color: $number-color;
-}
+// .number {
+//   color: $number-color;
+// }
 
-// Add specific styles for different language constructs
-/* For example, using Pygments or PrismJS class names */
-.token.comment,
-.comment {
-  color: $comment-color;
-}
+// // Add specific styles for different language constructs
+// /* For example, using Pygments or PrismJS class names */
+// .token.comment,
+// .comment {
+//   color: $comment-color;
+// }
 
-.token.keyword,
-.keyword {
-  color: $keyword-color;
-}
+// .token.keyword,
+// .keyword {
+//   color: $keyword-color;
+// }
 
-.token.number,
-.number {
-  color: $number-color;
-}
+// .token.number,
+// .number {
+//   color: $number-color;
+// }
 
-.token.string,
-.string {
-  color: #032f62;
-}
+// .token.string,
+// .string {
+//   color: #032f62;
+// }
 
-.token.function,
-.function {
-  color: $function-color;
-}
+// .token.function,
+// .function {
+//   color: $function-color;
+// }
 
-.token.class-name,
-.data-type {
-  color: $data-type-color;
-}
+// .token.class-name,
+// .data-type {
+//   color: $data-type-color;
+// }
 
 
 
