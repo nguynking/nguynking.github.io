@@ -6,55 +6,6 @@ categories: post
 ---
 Some edge cases and cautionary examples on using Markdown for writing content using this theme. In particular, list syntax can really knot things up.
 
-```python
-# this is some python code
-def sum(x, y):
-   return x + y
-
-print(sum(3, 4))
-# output: 7
-```
-
-```cpp
-__attribute__((noinline))
-float mulNoInline(float x, float y) {
-    return x * y;
-}
-
-float mulInline(float x, float y) {
-    return x * y;
-}
-
-float global = 1.2485889846f;
-
-int main() {
-    float inlineRes = mulInline(global, global) + 1.0f;
-    float noInlineRes = mulNoInline(global, global) + 1.0f;
-
-    if (inlineRes != noInlineRes) {
-        printf("Results are not equal!\n");
-    }
-}
-```
-
-```bash
-mkdir -p data
-cd data
-
-wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-train.txt
-wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-valid.txt
-
-wget https://huggingface.co/datasets/stanford-cs336/owt-sample/resolve/main/owt_train.txt.gz
-gunzip owt_train.txt.gz
-wget https://huggingface.co/datasets/stanford-cs336/owt-sample/resolve/main/owt_valid.txt.gz
-gunzip owt_valid.txt.gz
-```
-
-```
-some document that i wrote for testing!
-def pyt(a, b):
-   return a + b
-```
 <!--more-->
 
 ### Mathjax improperly parsing greater and less than and ampersands inside blocks
@@ -135,6 +86,56 @@ However, a problem still exists for inline matrix notation, from an example [her
 A matrix in text must be set smaller: $$ \bigl(\begin{smallmatrix}a & b \\ c & d\end{smallmatrix} \bigr) $$ to not increase leading in a portion of text. The way this inline matrix is written is: ```$$ \bigl(\begin{smallmatrix}a & b \\ c & d\end{smallmatrix} \bigr) $$```
 
 ## Edge Case 1 from Quxiaofeng:
+
+```python
+# this is some python code
+def sum(x, y):
+   return x + y
+
+print(sum(3, 4))
+# output: 7
+```
+
+```cpp
+__attribute__((noinline))
+float mulNoInline(float x, float y) {
+    return x * y;
+}
+
+float mulInline(float x, float y) {
+    return x * y;
+}
+
+float global = 1.2485889846f;
+
+int main() {
+    float inlineRes = mulInline(global, global) + 1.0f;
+    float noInlineRes = mulNoInline(global, global) + 1.0f;
+
+    if (inlineRes != noInlineRes) {
+        printf("Results are not equal!\n");
+    }
+}
+```
+
+```bash
+mkdir -p data
+cd data
+
+wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-train.txt
+wget https://huggingface.co/datasets/roneneldan/TinyStories/resolve/main/TinyStoriesV2-GPT4-valid.txt
+
+wget https://huggingface.co/datasets/stanford-cs336/owt-sample/resolve/main/owt_train.txt.gz
+gunzip owt_train.txt.gz
+wget https://huggingface.co/datasets/stanford-cs336/owt-sample/resolve/main/owt_valid.txt.gz
+gunzip owt_valid.txt.gz
+```
+
+```
+some document that i wrote for testing!
+def pyt(a, b):
+   return a + b
+```
 
 ### No blank lines between Markdown list items
 
