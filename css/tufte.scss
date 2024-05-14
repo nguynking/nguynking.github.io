@@ -175,7 +175,7 @@ blockquote footer {  font-size: 1.1rem;
 // pre, pre code, p code, p pre code { font-family: $code-font;  // removed .code 'class' since code is an actual html tag
 //         font-size: 1.2rem;                   // also added p code, p pre code and pre selector to account for Markdown parsing
 //         line-height: 1.71428571;        // of triple backticks plus rationalized line-heights and margins
-//         margin-top: 1.71428571rem; }
+//         margin-top: 1.71428571rem;}
 
 // Example syntax highlighting
 $background-color: #f5f5f5;
@@ -191,7 +191,7 @@ pre, code {
   font-family: $code-font;
   font-size: 1.2rem;
   line-height: 1.71428571;
-  margin-top: 1.71428571rem;
+  // margin-top: 1.71428571rem;
   background-color: $background-color;
   // padding: 1rem;
   border: medium solid $border-color;
@@ -204,7 +204,7 @@ code {
 }
 
 pre code {
-  display: block;
+  // display: block;
   white-space: pre;
   color: $text-color;
 }
