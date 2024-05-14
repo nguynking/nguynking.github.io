@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: page
 ---
@@ -29,4 +29,4 @@ Markdown formatted content *here*.
 Pages are any HTML documents *or* Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this
 
 I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.
-
+ -->

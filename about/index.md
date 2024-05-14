@@ -1,9 +1,9 @@
 ---
-layout: full-width
+layout: page
 title: About
 ---
 
-Chào mọi người, tui là Nguyễn King (là người Việt 100% nhưng tên lại hông gốc Việt lắm hehe). Tui hiện đang là sinh viên năm 3 tại Trường Đại học Kinh tế TP.HCM, chuyên ngành Khoa học dữ liệu.
+Chào mọi người, tui là Nguyễn King {% marginfigureradius 'mf-id-1' 'assets/img/king_photo.jpg'  %} (là người Việt 100% nhưng tên lại hông gốc Việt lắm hehe). Tui hiện đang là sinh viên năm 3 tại Trường Đại học Kinh tế TP.HCM, chuyên ngành Khoa học dữ liệu.
 
 Tui là một Mediator (INFP-T), và nó mô tả khá chính xác bản thân tui - trầm tính và luôn sẵn sàng lắng nghe câu chuyện từ người khác. Âm nhạc đối với tui là đam mê từ thuở nhỏ, và đây cũng là sợi dây kết nối tui với rất nhiều người bạn thú vị. Tui cũng có một ước mơ là được đi khắp mọi ngõ ngách trên thế giới, gặp những con người từ các nền văn hóa khác nhau, để hiểu và nhận ra rằng bản thân mình cũng chỉ là hạt cát giữa đại dương rộng lớn.
 
