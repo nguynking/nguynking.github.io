@@ -35,7 +35,7 @@ html, body { height: 100%; }
 
 html{
     text-align: baseline;
-    font-size: 5px;
+    font-size: 11px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
@@ -131,7 +131,8 @@ p, ol, ul { font-size: 1.4rem; }
 p, li { line-height: 2rem;
         margin-top: 1.4rem;
         padding-right: 2rem; //removed because,  why?
-        vertical-align: baseline; }
+        vertical-align: baseline; 
+        text-align: justify;}
 
 /* Chapter Epigraphs */
 div.epigraph { margin: 3.5636rem 0; }
