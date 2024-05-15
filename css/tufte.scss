@@ -201,7 +201,7 @@ pre code {
   font-family: $code-font;  // removed .code 'class' since code is an actual html tag
   font-size: 1.2rem;                   // also added p code, p pre code and pre selector to account for Markdown parsing
   line-height: 1.71428571;        // of triple backticks plus rationalized line-heights and margins
-  margin-left: -4.4%;
+  // margin-left: -4.4%;
   // margin-top: 7px;
   // margin-bottom: 7px;
   overflow-x: auto;
@@ -402,9 +402,10 @@ div.table-wrapper, table { overflow-x: auto; } //changed all overflow values to 
 
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
 
-pre { width: 52.5%; //, pre code, p pre code are both selectors in tufte.css - they have been removed here to fix alignment issues
-      padding-left: 2.5%;
-      overflow-x: auto; }
+pre { width: 55%; //, pre code, p pre code are both selectors in tufte.css - they have been removed here to fix alignment issues
+      // padding-left: 2.5%;
+      overflow-x: auto; 
+      margin-left: 0%;}
 
 .fullwidth, li.listing div{ max-width: 90%; }
 .small {max-width: 10%;}
