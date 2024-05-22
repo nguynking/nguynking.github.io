@@ -83,10 +83,12 @@ p > a, cite > a, span > a { @if $link-style == underline
     }
   }
 
-body { width: 87.5%;
+// body { width: 87.5%;
+body { width: 90%;
        margin-left: 0px;
        margin-right: 0px;
        padding-left: 12.5%;
+      //  padding-left: 10%;
        font-family: $body-font;
        background-color: $bg-color;
        color: $text-color;
@@ -355,6 +357,7 @@ img { max-width: 70%; border-radius: 10px;}
 .sidenote, .marginnote { float: right;
                          clear: right;
                          margin-right: -60%;
+                        //  width: 55%;
                          width: 50%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
@@ -364,7 +367,7 @@ img { max-width: 70%; border-radius: 10px;}
                          position: relative; }
 
 
-li .sidenote, li .marginnote{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
+li .sidenote, li .marginnote{ margin-right: -90%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 
 blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
@@ -407,7 +410,9 @@ pre { width: 55%; //, pre code, p pre code are both selectors in tufte.css - the
       overflow-x: auto; 
       margin-left: 0%;}
 
-.fullwidth, li.listing div{ max-width: 90%; }
+// .fullwidth, li.listing div{ max-width: 90%; }
+.fullwidth{ max-width: 80%; }
+li.listing div{ max-width: 90%; }
 .small {max-width: 10%;}
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
