@@ -84,11 +84,11 @@ p > a, cite > a, span > a { @if $link-style == underline
   }
 
 // body { width: 87.5%;
-body { width: 90%;
+body { width: 85%;
        margin-left: 0px;
        margin-right: 0px;
        padding-left: 12.5%;
-      //  padding-left: 10%;
+       padding-left: 15%;
        font-family: $body-font;
        background-color: $bg-color;
        color: $text-color;
@@ -128,10 +128,10 @@ p .subtitle { font-style: italic;
              line-height: 1.08888888888889; }
 
 
-p, ol, ul { font-size: 1.4rem; }
+p, ol, ul { font-size: 1.3rem; }
 
 p, li, pre { line-height: 2rem;
-        margin-top: 1.4rem;
+        margin-top: 1.3rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; 
         text-align: justify;}
