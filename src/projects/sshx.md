@@ -18,4 +18,5 @@ experimentation. The result is a unique software artifact. It combines work as a
 solo engineer, crafting a complex, performant streaming system, and as a
 designer of deeply collaborative software.
 
-**Links: [GitHub](https://github.com/nguynking/sshx), [Website](https://sshx.io)**
+**Links: [GitHub](https://github.com/nguynking/sshx),
+[Website](https://sshx.io)**

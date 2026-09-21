@@ -82,7 +82,9 @@
 
   <p class="text-lg">
     If you find something interesting,
-    <a class="link" href="mailto:kingnguyen0123@gmail.com?subject=Software%20Projects"
+    <a
+      class="link"
+      href="mailto:kingnguyen0123@gmail.com?subject=Software%20Projects"
       >let me know</a
     >!
   </p>

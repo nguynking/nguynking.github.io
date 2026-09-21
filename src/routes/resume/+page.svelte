@@ -170,9 +170,9 @@
     </li>
     <li>
       Individually developed and released
-      <a class="link" href="https://github.com/nguynking/fastseg">FastSeg</a>, an
-      open-source library containing state-of-the-art PyTorch implementations of
-      MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
+      <a class="link" href="https://github.com/nguynking/fastseg">FastSeg</a>,
+      an open-source library containing state-of-the-art PyTorch implementations
+      of MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
       more accurate than existing public implementations.
     </li>
   </Workplace>
