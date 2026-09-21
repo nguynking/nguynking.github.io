@@ -4,17 +4,24 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
   build:
     name: Build and Deploy
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v6
         with:
-          node-version: "18"
+          node-version: "22"
 
       - run: npm ci
 
@@ -24,8 +31,12 @@ jobs:
 
       - run: npm run build
 
-      - uses: JamesIves/github-pages-deploy-action@4.1.8
+      - name: Disable Jekyll processing
+        run: touch build/.nojekyll
+
+      - uses: JamesIves/github-pages-deploy-action@v4.9.0
         with:
           branch: gh-pages
           folder: build
           single-commit: true
+          commit-message: Deploy website
