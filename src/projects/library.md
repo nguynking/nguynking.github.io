@@ -1,7 +1,7 @@
 ---
 title: Algorithm and Data Structure Library
 date: 2019-01-23
-repo: ekzhang/library
+repo: nguynking/library
 topics: ["C++", "CP", "Algorithms", "Angular"]
 lead:
   A competitive programmer's library of algorithms and data structures in C++.
@@ -18,5 +18,5 @@ This is accessible on a static website, which I developed using Angular. The
 website also includes a searchable collection of more than 600 code samples from
 other open-source libraries.
 
-**Links: [GitHub](https://github.com/ekzhang/library),
+**Links: [GitHub](https://github.com/nguynking/library),
 [Website](https://ekzlib.netlify.app/)**

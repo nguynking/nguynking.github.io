@@ -47,13 +47,13 @@
 </script>
 
 <Seo
-  title="Eric Zhang"
+  title="King Nguyen"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 
 <p
   class="layout-md text-black text-xl leading-tight font-light mb-16"
-  id="eric-is"
+  id="king-is"
 >
   <span class="g">is a</span> software engineer<span class="g">,</span><br />
   researcher<span class="g">, and</span><br />
@@ -121,7 +121,7 @@
         href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p24/pdf"
         >combinatorics research</a
       >, and
-      <a class="link" href="https://github.com/ekzhang/graphics-workshop"
+      <a class="link" href="https://github.com/nguynking/graphics-workshop"
         >graphics tutorials</a
       >
       used by thousands. Before that, I won two gold medals at the
@@ -163,7 +163,7 @@
   <div class="space-y-5">
     <!-- <p>This is what I look like:</p> -->
     <img
-      alt="Self-portrait photograph of Eric Zhang at his desk"
+      alt="Self-portrait photograph of King Nguyen at his desk"
       src="/assets/images/profile5.jpg"
     />
   </div>
@@ -188,7 +188,7 @@
 
   /* Correction for vertical navigation links on mobile. */
   @media (max-width: 420px) {
-    #eric-is {
+    #king-is {
       @apply -mt-10;
     }
   }

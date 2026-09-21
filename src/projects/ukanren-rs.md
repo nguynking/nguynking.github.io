@@ -1,7 +1,7 @@
 ---
 title: µKanren-rs
 date: 2021-09-11
-repo: ekzhang/ukanren-rs
+repo: nguynking/ukanren-rs
 topics: ["Rust", "Programming Languages", "Systems"]
 lead: A featherweight relational programming language.
 image: ukanren-rs.png
@@ -18,6 +18,6 @@ The library was originally implemented as an exercise for a graduate programming
 languages design seminar at Harvard, but I made the code available to the open
 source community as a Rust crate.
 
-**Links: [GitHub](https://github.com/ekzhang/ukanren-rs),
+**Links: [GitHub](https://github.com/nguynking/ukanren-rs),
 [Crates.io](https://crates.io/crates/ukanren),
 [Documentation](https://docs.rs/ukanren)**

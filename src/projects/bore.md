@@ -1,7 +1,7 @@
 ---
 title: Bore – Localhost Tunnels
 date: 2022-04-06
-repo: ekzhang/bore
+repo: nguynking/bore
 topics: ["Rust", "Systems", "CLI"]
 lead: A modern, simple TCP tunnel in 400 lines of Rust.
 image: bore.png
@@ -19,6 +19,6 @@ tunneling server running at `bore.pub`, available for anyone to use, similar to
 to host your own server with a single `bore server` command in the same binary
 executable, with optional authentication.
 
-**Links: [GitHub](https://github.com/ekzhang/bore),
+**Links: [GitHub](https://github.com/nguynking/bore),
 [Crates.io](https://crates.io/crates/bore-cli),
 [Documentation](https://docs.rs/bore-cli)**

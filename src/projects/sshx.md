@@ -1,7 +1,7 @@
 ---
 title: sshx
 date: 2023-11-05
-repo: ekzhang/sshx
+repo: nguynking/sshx
 topics: ["Rust", "Svelte", "Systems"]
 lead: A secure web-based, collaborative terminal.
 image: sshx.png
@@ -18,4 +18,4 @@ experimentation. The result is a unique software artifact. It combines work as a
 solo engineer, crafting a complex, performant streaming system, and as a
 designer of deeply collaborative software.
 
-**Links: [GitHub](https://github.com/ekzhang/sshx), [Website](https://sshx.io)**
+**Links: [GitHub](https://github.com/nguynking/sshx), [Website](https://sshx.io)**

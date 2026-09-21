@@ -1,7 +1,7 @@
 ---
 title: Percival
 date: 2021-11-30
-repo: ekzhang/percival
+repo: nguynking/percival
 topics: ["Rust", "Svelte", "Datalog", "Visualization"]
 lead: Web-based, reactive Datalog notebooks.
 image: percival.png
@@ -22,5 +22,5 @@ Because Percival uses web technologies (including Web Workers for multithreaded,
 sandboxed execution), fully-interactive notebooks can be shared with anyone on
 the Internet, making data analyses more tangible to others.
 
-**Links: [GitHub](https://github.com/ekzhang/percival),
+**Links: [GitHub](https://github.com/nguynking/percival),
 [Website](https://percival.ink/)**

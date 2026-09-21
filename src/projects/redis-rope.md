@@ -1,7 +1,7 @@
 ---
 title: Redis Rope
 date: 2022-07-30
-repo: ekzhang/redis-rope
+repo: nguynking/redis-rope
 topics: ["Zig", "Rust", "Systems", "Algorithms"]
 lead: Fast native data type for manipulating large strings in Redis.
 image: redis-rope.svg
@@ -25,5 +25,5 @@ somewhat _practical_ by caring about safety, correctness, and speed. It
 approaches the performance of ordinary strings for simple operations and is
 hundreds of times faster for complex operations.
 
-**Links: [GitHub](https://github.com/ekzhang/redis-rope),
-[Releases](https://github.com/ekzhang/redis-rope/releases)**
+**Links: [GitHub](https://github.com/nguynking/redis-rope),
+[Releases](https://github.com/nguynking/redis-rope/releases)**

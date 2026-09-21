@@ -1,7 +1,7 @@
 ---
 title: Inline SQL
 date: 2022-10-08
-repo: ekzhang/inline-sql
+repo: nguynking/inline-sql
 topics: ["Python", "Programming Languages", "Databases"]
 lead: Weaving relational queries into the fabric of Python.
 image: inline-sql.png
@@ -19,5 +19,5 @@ experimental perspective, the intent of the project was to see whether we can
 usefully and ergonomically embed declarative, relational query languages within
 general-purpose media.
 
-**Links: [GitHub](https://github.com/ekzhang/inline-sql),
+**Links: [GitHub](https://github.com/nguynking/inline-sql),
 [PyPI](https://pypi.org/project/inline-sql/)**

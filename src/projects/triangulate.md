@@ -1,7 +1,7 @@
 ---
 title: Polygon Triangulation with Holes
 date: 2019-05-23
-repo: ekzhang/triangulate
+repo: nguynking/triangulate
 topics: ["C++", "Algorithms", "Emscripten", "Graphics"]
 lead: Fast computational geometry algorithms in WebAssembly.
 image: triangulate.png
@@ -27,5 +27,5 @@ I implemented the algorithm in C++ from scratch, then compiled it to WebAssembly
 using [Emscripten](https://emscripten.org/) to produce code that could be run by
 the browser.
 
-**Links: [GitHub](https://github.com/ekzhang/triangulate),
+**Links: [GitHub](https://github.com/nguynking/triangulate),
 [Website](https://triangulate.surge.sh/)**

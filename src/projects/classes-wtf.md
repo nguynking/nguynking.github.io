@@ -1,7 +1,7 @@
 ---
 title: classes.wtf
 date: 2022-08-10
-repo: ekzhang/classes.wtf
+repo: nguynking/classes.wtf
 topics: ["Go", "TypeScript", "Svelte", "Systems"]
 lead: A course catalog with extremely fast full-text search.
 image: classes-wtf.png
@@ -18,5 +18,5 @@ response, and render} pipeline to take under 30 milliseconds. I built it in a
 weekend out of personal annoyance and launched a week later; it's now pretty
 popular among students at my school.
 
-**Links: [GitHub](https://github.com/ekzhang/classes.wtf),
+**Links: [GitHub](https://github.com/nguynking/classes.wtf),
 [Website](https://classes.wtf)**

@@ -1,7 +1,7 @@
 ---
 title: Competitive Programming Workspace
 date: 2019-09-23
-repo: ekzhang/wkspace
+repo: nguynking/wkspace
 topics: ["JavaScript", "CP", "React", "Express"]
 lead: An online, cloud-synchronized workspace for competitive programmers.
 image: wkspace.png
@@ -23,5 +23,5 @@ button. All code is automatically saved and synchronized with a MongoDB instance
 in the cloud, so it persists across sessions and browsers. See the website below
 to try it out.
 
-**Links: [GitHub](https://github.com/ekzhang/wkspace),
+**Links: [GitHub](https://github.com/nguynking/wkspace),
 [Website](https://wkspace.herokuapp.com/)**

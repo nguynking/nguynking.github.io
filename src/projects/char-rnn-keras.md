@@ -1,7 +1,7 @@
 ---
 title: Char-RNN Keras
 date: 2018-10-23
-repo: ekzhang/char-rnn-keras
+repo: nguynking/char-rnn-keras
 topics: ["Python", "Machine Learning", "Music"]
 lead: Character-level language models with recurrent neural networks in Keras.
 image: char-rnn-keras.png
@@ -18,5 +18,5 @@ A really interesting application was training this model on a text-based corpus
 of folk music, from which it could compose fairly convincing new music samples.
 See the <code>music-gen</code> demo below.
 
-**Links: [GitHub](https://github.com/ekzhang/char-rnn-keras),
-[Demo](https://ekzhang.github.io/music-gen/)**
+**Links: [GitHub](https://github.com/nguynking/char-rnn-keras),
+[Demo](https://nguynking.github.io/music-gen/)**

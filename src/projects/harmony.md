@@ -1,7 +1,7 @@
 ---
 title: Procedural Harmony
 date: 2019-02-23
-repo: ekzhang/harmony
+repo: nguynking/harmony
 topics: ["Python", "Music", "Algorithms", "Flask"]
 lead: Dynamic programming applied to four-part harmony.
 image: harmony.png
@@ -29,5 +29,5 @@ The code and idea behind this project were used as the basis for an
 [abstract at ISMIR 2020](https://program.ismir2020.net/lbd_432.html), written by
 computational music theory researchers at McGill University.
 
-**Links: [GitHub](https://github.com/ekzhang/harmony),
+**Links: [GitHub](https://github.com/nguynking/harmony),
 [Website](https://autoharmony.herokuapp.com/)**

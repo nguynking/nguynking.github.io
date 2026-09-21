@@ -1,7 +1,7 @@
 ---
 title: Crepe – Logic Programming in Rust
 date: 2020-09-23
-repo: ekzhang/crepe
+repo: nguynking/crepe
 topics: ["Rust", "Programming Languages", "Datalog"]
 lead: Fast, compiled Datalog for static analysis, with Rust integration.
 image: crepe.png
@@ -19,6 +19,6 @@ within compiled Horn clauses. It also includes many features of modern Datalog
 implementations: stratified negation, semi-naive evaluation, and automatic index
 generation.
 
-**Links: [GitHub](https://github.com/ekzhang/crepe),
+**Links: [GitHub](https://github.com/nguynking/crepe),
 [Crates.io](https://crates.io/crates/crepe),
 [Documentation](https://docs.rs/crepe)**

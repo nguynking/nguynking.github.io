@@ -1,7 +1,7 @@
 ---
 title: Fast Semantic Segmentation
 date: 2020-08-23
-repo: ekzhang/fastseg
+repo: nguynking/fastseg
 topics: ["Python", "Machine Learning", "Vision"]
 lead: State-of-the-art, real-time semantic segmentation with MobileNetV3.
 image: fastseg.jpg
@@ -25,5 +25,5 @@ I currently maintain this code as a
 <a href="https://pypi.org/project/fastseg/">package on PyPI</a>, along with
 scripts for inference and exporting models to different formats for deployment.
 
-**Links: [GitHub](https://github.com/ekzhang/fastseg),
-[Colab](https://colab.research.google.com/github/ekzhang/fastseg/blob/master/demo/fastseg-semantic-segmentation.ipynb)**
+**Links: [GitHub](https://github.com/nguynking/fastseg),
+[Colab](https://colab.research.google.com/github/nguynking/fastseg/blob/master/demo/fastseg-semantic-segmentation.ipynb)**

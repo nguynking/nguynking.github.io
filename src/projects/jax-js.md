@@ -1,7 +1,7 @@
 ---
 title: jax-js
 date: 2025-12-18
-repo: ekzhang/jax-js
+repo: nguynking/jax-js
 topics: ["TypeScript", "Machine Learning"]
 lead: Fast, flexible GPU machine learning framework that runs in-browser.
 image: jax-js.png
@@ -18,5 +18,5 @@ as well as enabling numerical computing in general. Currently it supports most
 of the JAX and NumPy APIs.
 
 **Links: [Website](https://jax-js.com),
-[GitHub](https://github.com/ekzhang/jax-js),
-[Announcement](https://ekzhang.substack.com/p/jax-js-an-ml-library-for-the-web)**
+[GitHub](https://github.com/nguynking/jax-js),
+[Announcement](https://nguynking.substack.com/p/jax-js-an-ml-library-for-the-web)**

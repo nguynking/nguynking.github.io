@@ -1,7 +1,7 @@
 ---
 title: ssh-hypervisor
 date: 2025-09-23
-repo: ekzhang/ssh-hypervisor
+repo: nguynking/ssh-hypervisor
 topics: ["Go", "Systems"]
 lead: Lightweight, per-user virtual machines that start as you SSH in.
 image: ssh-hypervisor.png
@@ -16,5 +16,5 @@ nested KVM virtualization.
 This was a fun weekend project, but it hints at a simple building block for
 per-user sandboxes and lightweight VM provisioning via SSH.
 
-**Links: [GitHub](https://github.com/ekzhang/ssh-hypervisor),
-[Worklog](https://ekzhang.substack.com/p/ssh-hypervisor-simcity-for-vms)**
+**Links: [GitHub](https://github.com/nguynking/ssh-hypervisor),
+[Worklog](https://nguynking.substack.com/p/ssh-hypervisor-simcity-for-vms)**

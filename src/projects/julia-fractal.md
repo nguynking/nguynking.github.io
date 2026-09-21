@@ -1,7 +1,7 @@
 ---
 title: Julia Fractal Renderers
 date: 2018-04-23
-repo: ekzhang/julia-fractal
+repo: nguynking/julia-fractal
 topics: ["C++", "Java", "Graphics", "TypeScript", "OpenGL"]
 lead: Fast, interactive fractal renderers in C++, Java, and WebGL.
 image: julia-1.jpg
@@ -21,7 +21,7 @@ interactively with almost no lag. I rendered using WebGL and connected it to
 mobile-friendly controls with TypeScript. You can play with this fractal
 explorer in the website linked below.
 
-**Links: [GitHub](https://github.com/ekzhang/julia-fractal),
-[GitHub (Java)](https://github.com/ekzhang/julia-viewer),
-[GitHub (WebGL)](https://github.com/ekzhang/webgl-julia-viewer),
-[Website](https://ekzhang.github.io/webgl-julia-viewer/)**
+**Links: [GitHub](https://github.com/nguynking/julia-fractal),
+[GitHub (Java)](https://github.com/nguynking/julia-viewer),
+[GitHub (WebGL)](https://github.com/nguynking/webgl-julia-viewer),
+[Website](https://nguynking.github.io/webgl-julia-viewer/)**

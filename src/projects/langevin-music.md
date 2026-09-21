@@ -1,7 +1,7 @@
 ---
 title: Langevin Dynamics for Composition
 date: 2020-11-23
-repo: ekzhang/langevin-music
+repo: nguynking/langevin-music
 topics: ["Python", "Machine Learning", "Music", "Transformers"]
 lead: Generative modeling of Bach chorales by gradient estimation.
 image: langevin-music.png
@@ -21,5 +21,5 @@ Our contribution is to look in the direction of designing generative deep
 learning models for music that strongly _avoid local minima_, while _retaining
 controllability_.
 
-**Links: [GitHub](https://github.com/ekzhang/langevin-music),
-[Paper](https://www.ekzhang.com/assets/pdf/Generative_Music_Modeling.pdf)**
+**Links: [GitHub](https://github.com/nguynking/langevin-music),
+[Paper](https://nguynking.github.io/assets/pdf/Generative_Music_Modeling.pdf)**

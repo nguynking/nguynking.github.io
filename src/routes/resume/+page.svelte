@@ -4,7 +4,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Resume"
+  title="King Nguyen – Resume"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 
@@ -170,7 +170,7 @@
     </li>
     <li>
       Individually developed and released
-      <a class="link" href="https://github.com/ekzhang/fastseg">FastSeg</a>, an
+      <a class="link" href="https://github.com/nguynking/fastseg">FastSeg</a>, an
       open-source library containing state-of-the-art PyTorch implementations of
       MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
       more accurate than existing public implementations.

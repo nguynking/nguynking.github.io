@@ -1,7 +1,7 @@
 ---
 title: Canvas Hashlife
 date: 2018-12-23
-repo: ekzhang/game-of-life
+repo: nguynking/game-of-life
 topics: ["JavaScript", "Algorithms", "Graphics", "Vue"]
 lead: An ultra-fast simulation of Conway's Game of Life in the browser.
 image: game-of-life.png
@@ -20,5 +20,5 @@ In the image, you can see a frontend web application computing the
 498,913,509,376<sup>th</sup> generation of a Turing machine pattern in just
 under a millisecond.
 
-**Links: [GitHub](https://github.com/ekzhang/game-of-life),
-[Website](https://ekzhang.github.io/game-of-life/)**
+**Links: [GitHub](https://github.com/nguynking/game-of-life),
+[Website](https://nguynking.github.io/game-of-life/)**

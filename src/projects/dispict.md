@@ -1,7 +1,7 @@
 ---
 title: Dispict
 date: 2022-11-23
-repo: ekzhang/dispict
+repo: nguynking/dispict
 topics: ["Python", "Svelte", "Art", "Vision"]
 lead: Creative aesthetics tool to discover art museums.
 image: dispict.jpg
@@ -17,5 +17,5 @@ to experience the Harvard Art Museums' online collection (containing over
 200,000 digitized works) through language-image machine learning models, helping
 you curate your own personalized galleries.
 
-**Links: [GitHub](https://github.com/ekzhang/dispict),
+**Links: [GitHub](https://github.com/nguynking/dispict),
 [Website](https://dispict.com)**

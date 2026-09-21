@@ -1,7 +1,7 @@
 ---
 title: Set with Friends
 date: 2020-01-23
-repo: ekzhang/setwithfriends
+repo: nguynking/setwithfriends
 topics: ["JavaScript", "Game", "React", "Firebase"]
 lead: An online, real-time multiplayer card game.
 image: setwithfriends.png
@@ -21,5 +21,5 @@ released version 2.0 in June. At its peak, the website had over 40,000 monthly
 active users for half a year, and as of September 2022 there have been 5,000,000
 games played.
 
-**Links: [GitHub](https://github.com/ekzhang/setwithfriends),
+**Links: [GitHub](https://github.com/nguynking/setwithfriends),
 [Website](https://setwithfriends.com/)**

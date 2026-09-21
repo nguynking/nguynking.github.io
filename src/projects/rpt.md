@@ -1,7 +1,7 @@
 ---
 title: Path Tracer
 date: 2020-12-23
-repo: ekzhang/rpt
+repo: nguynking/rpt
 topics: ["Rust", "Graphics", "Rendering"]
 lead: A physically-based path tracer in Rust.
 image: rpt.jpg
@@ -22,6 +22,6 @@ features.
 This won top project out of 100 students in MIT's computer graphics class
 (6.837, Fall 2020).
 
-**Links: [GitHub](https://github.com/ekzhang/rpt),
+**Links: [GitHub](https://github.com/nguynking/rpt),
 [Crates.io](https://crates.io/crates/rpt),
 [Documentation](https://docs.rs/rpt)**

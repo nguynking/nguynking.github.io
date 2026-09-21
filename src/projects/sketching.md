@@ -1,7 +1,7 @@
 ---
 title: Pencil Sketch Rendering
 date: 2021-05-23
-repo: ekzhang/sketching
+repo: nguynking/sketching
 topics: ["OpenGL", "Graphics", "Geometry", "Algorithms"]
 lead: Geometry processing for real-time pencil sketching.
 image: sketching.png
@@ -19,6 +19,6 @@ previously unexplored topic. This algorithm has the advantage of enabling
 real-time rendering of dynamic geometries at arbitrary scales (modeled by
 implicit functions), without the noise sensitivity of mesh-based methods.
 
-**Links: [GitHub](https://github.com/ekzhang/sketching),
+**Links: [GitHub](https://github.com/nguynking/sketching),
 [Website](https://pencil-sketching.vercel.app/),
 [Paper](https://pencil-sketching.vercel.app/Pencil-Sketching.pdf)**

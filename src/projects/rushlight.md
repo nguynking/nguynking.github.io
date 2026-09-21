@@ -1,7 +1,7 @@
 ---
 title: Rushlight
 date: 2023-06-26
-repo: ekzhang/rushlight
+repo: nguynking/rushlight
 topics: ["TypeScript", "Systems", "Redis"]
 lead: Collaborative code editors that run on your own infrastructure.
 image: rushlight.jpg
@@ -17,5 +17,5 @@ a boring HTTP handler works. There aren't any proprietary gadgets or opaque
 configurations. It's just a distributed data structure in its purest pragmatic
 form.
 
-**Links: [GitHub](https://github.com/ekzhang/rushlight),
+**Links: [GitHub](https://github.com/nguynking/rushlight),
 [Demo](https://rushlight.up.railway.app/)**

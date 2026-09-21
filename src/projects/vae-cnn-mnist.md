@@ -1,7 +1,7 @@
 ---
 title: Handwriting Generator
 date: 2018-08-23
-repo: ekzhang/vae-cnn-mnist
+repo: nguynking/vae-cnn-mnist
 topics: ["Python", "Machine Learning", "Graphics"]
 lead: Variational autoencoder that learns latent features in handwriting.
 image: vae-cnn-mnist.png
@@ -22,5 +22,5 @@ stitches the outputs together onto a canvas. Without any prior knowledge, the
 model is able to isolate six of the most important characteristics in human
 handwriting.
 
-**Links: [GitHub](https://github.com/ekzhang/vae-cnn-mnist),
-[Demo](https://ekzhang.github.io/vae-cnn-mnist/)**
+**Links: [GitHub](https://github.com/nguynking/vae-cnn-mnist),
+[Demo](https://nguynking.github.io/vae-cnn-mnist/)**

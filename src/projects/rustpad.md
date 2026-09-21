@@ -1,7 +1,7 @@
 ---
 title: Rustpad
 date: 2021-06-23
-repo: ekzhang/rustpad
+repo: nguynking/rustpad
 topics: ["Rust", "Systems", "TypeScript", "React"]
 lead: A self-hosted online collaborative code editor.
 image: rustpad.png
@@ -18,5 +18,5 @@ allows us to avoid provisioning a database, and makes testing much easier. It
 demonstrates the power of distributed systems and concurrent network
 programming, designing with consideration for the entire stack.
 
-**Links: [GitHub](https://github.com/ekzhang/rustpad),
+**Links: [GitHub](https://github.com/nguynking/rustpad),
 [Website](https://rustpad.io/)**

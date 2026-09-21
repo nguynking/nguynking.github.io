@@ -1,7 +1,7 @@
 ---
 title: Composing Studio
 date: 2021-09-22
-repo: ekzhang/composing.studio
+repo: nguynking/composing.studio
 topics: ["TypeScript", "Rust", "Music", "React"]
 lead: Collaborative music composition for everyone.
 image: composing-studio.png
@@ -20,5 +20,5 @@ prize), where I pitched the idea and formed a team of four programmer-musicians.
 Although we hadn't previously known each other, we all shared the same goal of
 exploring collaborative music with the global community.
 
-**Links: [GitHub](https://github.com/ekzhang/composing.studio),
+**Links: [GitHub](https://github.com/nguynking/composing.studio),
 [Website](https://composing.studio/)**

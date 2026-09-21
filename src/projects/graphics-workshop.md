@@ -1,7 +1,7 @@
 ---
 title: Graphics Workshop
 date: 2021-04-23
-repo: ekzhang/graphics-workshop
+repo: nguynking/graphics-workshop
 topics: ["OpenGL", "Graphics", "Shaders"]
 lead: Learn computer graphics by writing GPU shaders!
 image: graphics-workshop.png
@@ -21,5 +21,5 @@ tracing. I hosted a live version of this workshop at Harvard, and it has been
 used by thousands of self-learners after gaining popularity in the
 [/r/gamedev](https://www.reddit.com/r/gamedev/) community.
 
-**Links: [GitHub](https://github.com/ekzhang/graphics-workshop),
-[Deployment](https://www.ekzhang.com/graphics-workshop/)**
+**Links: [GitHub](https://github.com/nguynking/graphics-workshop),
+[Deployment](https://nguynking.github.io/graphics-workshop/)**
